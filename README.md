@@ -1,5 +1,8 @@
 # regex-stepper
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 TUI debugger that lets you step through regex execution frame-by-frame. Understand exactly how your regex matches (or fails) by watching it process each character.
 
 ## Features
